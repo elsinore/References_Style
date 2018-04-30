@@ -1,4 +1,4 @@
-# References_Style
+# References Style
 Customized bibliography styles for manuscript submission, which were written by Cite Style Language [(CSL)](http://docs.citationstyles.org/en/stable/specification.html).
 Welcome to [contact me](https://elsinore.github.io), I am glad to help for making some customized bibliography styles.
 
